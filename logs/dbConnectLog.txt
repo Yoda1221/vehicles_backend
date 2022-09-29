@@ -1,0 +1,1 @@
+29-09-2022 17:36:09	ee5a0b32-9602-4afd-a4bb-465c2ec72e54	Connected to mySqlDb, Id: 25375
