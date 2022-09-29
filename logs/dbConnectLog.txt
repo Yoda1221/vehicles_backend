@@ -1,1 +1,4 @@
 29-09-2022 17:36:09	ee5a0b32-9602-4afd-a4bb-465c2ec72e54	Connected to mySqlDb, Id: 25375
+29-09-2022 17:40:23	3bc9f55b-c6b5-4965-956d-8dac278ea406	Connected to mySqlDb, Id: 25376
+29-09-2022 17:40:24	8c6d570a-d538-42a5-8e3e-1107739e6cab	Connected to mySqlDb, Id: 25377
+29-09-2022 17:40:40	46e8b9ad-461b-451e-abd7-11f03b1e12aa	Connected to mySqlDb, Id: 25378
